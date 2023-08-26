@@ -1,6 +1,6 @@
 # html5-tag
 
-Tài liệu này dựa trên **&lt;Sách hướng dẫn cốt lõi về tiêu chuẩn web&gt;** Đây là một bản tóm tắt của một số trong số họ.
+Tài liệu này dựa trên **&lt;Sách hướng dẫn cốt lõi về tiêu chuẩn web&gt;** Đây là một bản tóm tắt của một số trong số đó.
 Cập nhật lần cuối: 26/08/2023
 
 ## Thành phần
